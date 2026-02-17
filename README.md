@@ -1,4 +1,4 @@
-# Hola, mi nombre el Jorge Francisco👋 
+# Hola, mi nombre es Jorge Francisco👋 
 
 ### Mechanical Automotive Engineer | M.Sc. Student in Artificial Intelligence  
 ### Computer Vision • Autonomous Systems • Machine Learning  
