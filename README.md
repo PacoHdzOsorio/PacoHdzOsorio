@@ -103,19 +103,6 @@ A perception model designed to identify safe parking zones in simulated road env
 - Autonomous decision logic  
 - Vehicle kinematics  
 
-(More repositories coming soon...)
-
----
-
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
-⚠ Replace `TU_USERNAME` with your actual GitHub username.
-
 ---
 
 ## 🎯 Professional Vision  
@@ -128,7 +115,7 @@ To contribute to the development of intelligent mobility and smart industrial sy
 
 <p align="center">
   <a href="TU_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://www.linkedin.com/in/jorge-francisco-hern%C3%A1ndez-osorio-92175624a/"/>
   </a>
 </p>
 
