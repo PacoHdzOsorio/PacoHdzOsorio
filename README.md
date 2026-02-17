@@ -65,14 +65,26 @@ The convergence of **AI + Robotics + IoT + Advanced Manufacturing** defines the 
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-0A192F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-1E90FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Industry%204.0-2C5364?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/Deep%20Learning-0A192F?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/Computer%20Vision-1E90FF?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/Industry%204.0-2C5364?style=for-the-badge"/>
+
+  <a href="https://www.solidworks.com/">
+    <img src="https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white"/>
+  </a>
+
+  <a href="https://www.coppeliarobotics.com/">
+    <img src="https://img.shields.io/badge/CoppeliaSim-00599C?style=for-the-badge"/>
+  </a>
 
 </p>
+
 
 ---
 
@@ -114,10 +126,11 @@ To contribute to the development of intelligent mobility and smart industrial sy
 ## 🌎 Connect With Me  
 
 <p align="center">
-  <a href="TU_LINKEDIN">
-    <img src="https://www.linkedin.com/in/jorge-francisco-hern%C3%A1ndez-osorio-92175624a/"/>
+  <a href="https://www.linkedin.com/in/jorge-francisco-hern%C3%A1ndez-osorio-92175624a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Jorge%20Hernández-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
 
 ---
 
